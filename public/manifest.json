@@ -1,7 +1,7 @@
 {
     "name": "Budget Tracker",
     "short_name": "Tracker",
-    "icons": " ",
+    "icons": "./css/style.css",
     "display": "standalone",
     "start_url": "../index.html",
     "description": "An app that allows you to track your budget.",
